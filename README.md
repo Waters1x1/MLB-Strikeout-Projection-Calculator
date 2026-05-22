@@ -36,7 +36,7 @@ pip install python-mlb-statsapi
 Run the program from the terminal:
 
 ```bash
-python main.py
+python MLBCalc.py
 ```
 
 You'll be prompted to enter:
